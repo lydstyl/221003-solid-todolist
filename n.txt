@@ -1,0 +1,21 @@
+options
+	todoItemPerDay : 3
+
+sortedTodoList
+	scheduledDate
+	importance
+
+todoItem
+	name
+	link
+	scheduledDate
+	importance
+		1 2 3
+	colorLabels
+		isQuick
+		isFixedDate
+
+		isOutside
+		isForFreedom
+		isForHealth
+		isForFamilly
